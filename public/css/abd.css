@@ -1,0 +1,6 @@
+.alter {
+  overflow: hidden;
+  border-radius: 1rem 0 0 1rem;
+  object-fit: fill;
+  height: 100%;
+}
